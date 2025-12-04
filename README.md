@@ -16,7 +16,7 @@ Setup (Windows PowerShell)
 
 ```powershell
 npm install -g expo-cli
-cd "d:\sir dave - anton\Faculty Schedule and Consultation Planner"
+cd "d:\Faculty Schedule and Consultation Planner"
 npm install
 npx expo start
 ```
@@ -30,3 +30,4 @@ Next steps
 
 Notes
 - This scaffold uses `@react-native-async-storage/async-storage` for local persistence. For production use, move to a server-backed store.
+
